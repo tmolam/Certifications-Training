@@ -21,7 +21,7 @@
 
 <div class="image-row">
   <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician" width="150" height="150"/>>
-  <img src="https://ek-msc-cloud-and-cybersecurity.web.app/graphics/icons/kamk-elements-of-cloud-and-cybersecurity-badge.png" alt="Elements of Cloud and Cybersecurity" width ="150 height="150"/>>
+  <img src=""C:\Users\Käyttäjä\Documents\Opinnot\kamk-elements-of-cloud-and-cybersecurity-badge.png"" alt="Elements of Cloud and Cybersecurity" width ="150 height="150"/>>
 </div>
 
 </body>
